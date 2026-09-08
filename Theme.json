@@ -1,0 +1,36 @@
+﻿{
+  "name": "Netflix Soft Dark",
+  "dataColors": [
+    "#E50914",
+    "#4DA3FF",
+    "#4CAF50",
+    "#FFB020",
+    "#A78BFA",
+    "#F97316"
+  ],
+  "background": "#121417",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#E50914",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#1B1F26" } },
+            "transparency": 0
+          }
+        ],
+        "title": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } }
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#B0B8C1" } }
+          }
+        ]
+      }
+    }
+  }
+}
