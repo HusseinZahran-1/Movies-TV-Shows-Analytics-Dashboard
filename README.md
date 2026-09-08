@@ -11,7 +11,7 @@
 ## 📸 معاينة التقرير (Dashboard Preview)
 
 <div align="center">
-  <img src="image_003a69.png" alt="Netflix Power BI Dashboard Preview" width="900" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);">
+  <img src="Netflix Dashboard.png" alt="Netflix Power BI Dashboard Preview" width="900" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);">
 </div>
 
 ---
